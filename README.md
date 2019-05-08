@@ -1,2 +1,2 @@
 # repo-pruebas
-Esto es solo una explicacion rapida web principal https//repo-pruebas.com
+Esto es solo una explicacion rapida web principal https://repo-pruebas.com
